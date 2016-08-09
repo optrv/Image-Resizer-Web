@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-import cgi, os
+import cgi
+import os
 from PIL import Image
 
 print("Content-type: text/html")
